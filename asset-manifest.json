@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/vaishnavi-khumbhar/ProText.git/static/css/main.6969e0f2.chunk.css",
+    "main.js": "/vaishnavi-khumbhar/ProText.git/static/js/main.10742371.chunk.js",
+    "main.js.map": "/vaishnavi-khumbhar/ProText.git/static/js/main.10742371.chunk.js.map",
+    "runtime-main.js": "/vaishnavi-khumbhar/ProText.git/static/js/runtime-main.8e9c545f.js",
+    "runtime-main.js.map": "/vaishnavi-khumbhar/ProText.git/static/js/runtime-main.8e9c545f.js.map",
+    "static/js/2.0f04fd15.chunk.js": "/vaishnavi-khumbhar/ProText.git/static/js/2.0f04fd15.chunk.js",
+    "static/js/2.0f04fd15.chunk.js.map": "/vaishnavi-khumbhar/ProText.git/static/js/2.0f04fd15.chunk.js.map",
+    "static/js/3.495dc4e5.chunk.js": "/vaishnavi-khumbhar/ProText.git/static/js/3.495dc4e5.chunk.js",
+    "static/js/3.495dc4e5.chunk.js.map": "/vaishnavi-khumbhar/ProText.git/static/js/3.495dc4e5.chunk.js.map",
+    "index.html": "/vaishnavi-khumbhar/ProText.git/index.html",
+    "precache-manifest.1314da73c1bd8a611711c3c62c61e46f.js": "/vaishnavi-khumbhar/ProText.git/precache-manifest.1314da73c1bd8a611711c3c62c61e46f.js",
+    "service-worker.js": "/vaishnavi-khumbhar/ProText.git/service-worker.js",
+    "static/css/main.6969e0f2.chunk.css.map": "/vaishnavi-khumbhar/ProText.git/static/css/main.6969e0f2.chunk.css.map",
+    "static/js/2.0f04fd15.chunk.js.LICENSE.txt": "/vaishnavi-khumbhar/ProText.git/static/js/2.0f04fd15.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e9c545f.js",
+    "static/js/2.0f04fd15.chunk.js",
+    "static/css/main.6969e0f2.chunk.css",
+    "static/js/main.10742371.chunk.js"
+  ]
+}
